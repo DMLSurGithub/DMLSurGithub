@@ -9,7 +9,7 @@ Hello, I'm [DMLSurGithub](https://dml-portfolio.me/), a passionate Frontend Deve
 - ⚡️ I constantly stay up to date with the latest trends and technologies in web development.
 - 🎨 I love designing attractive and intuitive user interfaces.
 
-## Technical Skills
+## Technologies
 
 Here are the technologies I master:
 
