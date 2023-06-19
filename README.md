@@ -1,39 +1,39 @@
-# <Hello World ! /> 👋
+# <Hello World! /> 👋
 
-Salut, je suis [DMLSurGithub](https://dml-portfolio.me/), un développeur Frontend passionné par la création d'expériences web exceptionnelles.
+Hello, I'm [DMLSurGithub](https://dml-portfolio.me/), a passionate Frontend Developer who loves creating exceptional web experiences.
 
-## À propos de moi
+## About Me
 
-- 💻 J'adore coder et créer des sites web interactifs et réactifs.
-- 🌐 Je suis spécialisé dans le Développement Frontend.
-- ⚡️ Je suis constamment à l'affût des dernières tendances et technologies du développement web.
-- 🎨 J'aime concevoir des interfaces utilisateur attrayantes et intuitives.
+- 💻 I enjoy coding and building interactive and responsive websites.
+- 🌐 I specialize in Frontend Development.
+- ⚡️ I constantly stay up to date with the latest trends and technologies in web development.
+- 🎨 I love designing attractive and intuitive user interfaces.
 
-## Compétences techniques
+## Technical Skills
 
-Voici les technologies que je maîtrise :
+Here are the technologies I master:
 
 - HTML
 - CSS
 - JavaScript
 - TypeScript
-- Framework Svelte
+- Svelte Framework
 - JSON
 - Git / GitHub
 
-## Projets récents
+## Recent Projects
 
-Voici quelques projets auxquels j'ai récemment contribué:
+Here are some recent projects I have contributed to:
 
-- [DML Website](https://github.com/DMLSurGithub/DML-Website) - Un site vitrine pour exposer mes créations | Technologies utilisées : Svelte / HTML / CSS / JavaScript / TypeScript
-- [Solar Studio](https://github.com/DMLSurGithub/Solar-Studio) - Un site vitrine pour un projet fictif | Technologies utilisées : Svelte / HTML / CSS / JavaScript / TypeScript
-- [Discord Invitation](https://github.com/DMLSurGithub/Discord-Invitation) - Une partie de code pour mettre sur vos sites | Technologies utilisées : Svelte / HTML / CSS / JavaScript / TypeScript
-- [SecureBits](https://github.com/DMLSurGithub/SecureBits) - Mon tout premier site vitrine réaliser pour un devoir | Technologies utilisées : HTML / CSS
+- [DML Website](https://github.com/DMLSurGithub/DML-Website) - A showcase website for displaying my creations | Technologies used: Svelte / HTML / CSS / JavaScript / TypeScript
+- [Solar Studio](https://github.com/DMLSurGithub/Solar-Studio) - A showcase website for a fictional project | Technologies used: Svelte / HTML / CSS / JavaScript / TypeScript
+- [Discord Invitation](https://github.com/DMLSurGithub/Discord-Invitation) - A code snippet for adding Discord invitation to your websites | Technologies used: Svelte / HTML / CSS / JavaScript / TypeScript
+- [SecureBits](https://github.com/DMLSurGithub/SecureBits) - My very first showcase website created for a school assignment | Technologies used: HTML / CSS
 
 ## Contact
 
-Si vous souhaitez me contacter pour discuter d'une collaboration ou simplement pour dire bonjour, vous pouvez me trouver sur :
-- Discord : ``dml#9448``
-- E-mail : djamel.dyne.gaming@gmail.com
+If you want to get in touch with me for collaboration or just to say hello, you can find me on:
+- Discord: `dml#9448`
+- Email: djamel.dyne.gaming@gmail.com
 
-Let's code and make the web awesome together ! 🚀
+Let's code and make the web awesome together! 🚀
