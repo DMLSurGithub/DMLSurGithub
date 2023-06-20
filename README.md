@@ -1,6 +1,6 @@
 # <Hello World! /> 👋
 
-Hello, I'm [DMLSurGithub](https://dml-portfolio.me/), a passionate Frontend Developer who loves creating exceptional web experiences.
+Hello, I'm [DML](https://dml-portfolio.me/), a passionate Frontend Developer who loves creating exceptional web experiences.
 
 ## About Me
 
