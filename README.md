@@ -36,4 +36,4 @@ If you want to get in touch with me for collaboration or just to say hello, you 
 - Discord: `dml#9448`
 - Email: djamel.dyne.gaming@gmail.com
 
-Let's code and make the web awesome together! 🚀
+Let's code and make the web awesome together ! 🚀
