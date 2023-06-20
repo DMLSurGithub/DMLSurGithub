@@ -11,7 +11,7 @@ Hello, I'm [DML](https://dml-portfolio.me/), a passionate Frontend Developer who
 
 ## Technologies
 
-Here are the technologies I master:
+Here are the technologies I master :
 
 - HTML
 - CSS
@@ -23,7 +23,7 @@ Here are the technologies I master:
 
 ## Recent Projects
 
-Here are some recent projects I have contributed to:
+Here are some recent projects I have contributed to :
 
 - [DML Website](https://github.com/DMLSurGithub/DML-Website) - A showcase website for displaying my creations | Technologies used: Svelte / HTML / CSS / JavaScript / TypeScript
 - [Solar Studio](https://github.com/DMLSurGithub/Solar-Studio) - A showcase website for a fictional project | Technologies used: Svelte / HTML / CSS / JavaScript / TypeScript
@@ -32,7 +32,7 @@ Here are some recent projects I have contributed to:
 
 ## Contact
 
-If you want to get in touch with me for collaboration or just to say hello, you can find me on:
+If you want to get in touch with me for collaboration or just to say hello, you can find me on :
 - Discord: `dml#9448`
 - Email: djamel.dyne.gaming@gmail.com
 
