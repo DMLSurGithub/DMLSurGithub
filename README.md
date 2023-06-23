@@ -33,7 +33,7 @@ Here are some recent projects I have contributed to :
 ## Contact
 
 If you want to get in touch with me for collaboration or just to say hello, you can find me on :
-- Discord: `dml#9448`
+- Discord: `dmlsurdsc`
 - Email: djamel.dyne.gaming@gmail.com
 
 Let's code and make the web awesome together ! 🚀
