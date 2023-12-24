@@ -26,7 +26,7 @@ Here are the technologies I master :
 Here are some recent projects I have contributed to :
 
 - [DML Website](https://github.com/DMLSurGithub/DML-Website) - A showcase website for displaying my creations | Technologies used: Svelte / HTML / CSS / JavaScript / TypeScript
-- [Solar Studio](https://github.com/DMLSurGithub/Solar-Studio) - A showcase website for a fictional project | Technologies used: Svelte / HTML / CSS / JavaScript / TypeScript
+- [TPLM Website](https://github.com/DMLSurGithub/tplm-website) - A showcase website for a fictional project | Technologies used: Svelte / HTML / CSS / JavaScript / TypeScript
 - [Discord Invitation](https://github.com/DMLSurGithub/Discord-Invitation) - A code snippet for adding Discord invitation to your websites | Technologies used: Svelte / HTML / CSS / JavaScript / TypeScript
 - [SecureBits](https://github.com/DMLSurGithub/SecureBits) - My very first showcase website created for a school assignment | Technologies used: HTML / CSS
 
