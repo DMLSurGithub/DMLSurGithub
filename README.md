@@ -17,17 +17,20 @@ Here are the technologies I master :
 - CSS
 - JavaScript
 - TypeScript
-- Svelte Framework
-- JSON
+- SvelteKit
+- Next.JS
+- Python
+- SQL
 - Git / GitHub
 
 ## Recent Projects
 
 Here are some recent projects I have contributed to :
 
-- [DML Website](https://github.com/DMLSurGithub/DML-Website) - A showcase website for displaying my creations | Technologies used: Svelte / HTML / CSS / JavaScript / TypeScript
-- [TPLM Website](https://github.com/DMLSurGithub/tplm-website) - A showcase website for a fictional project | Technologies used: Svelte / HTML / CSS / JavaScript / TypeScript
-- [Discord Invitation](https://github.com/DMLSurGithub/Discord-Invitation) - A code snippet for adding Discord invitation to your websites | Technologies used: Svelte / HTML / CSS / JavaScript / TypeScript
+- [DML Website](https://github.com/DMLSurGithub/DML-Website) - A showcase website for displaying my creations | Technologies used: SvelteKit / HTML / CSS / JavaScript / TypeScript
+- [TPLM Website](https://tplm-mgc.fr/) - A showcase website for a fictional project | Technologies used: SvelteKit / HTML / CSS / JavaScript
+- [Geodia Website](https://geodia.vercel.app/) - A showcase website for a fictional project | Technologies used: SvelteKit / HTML / CSS / JavaScript / TypeScript
+- [Discord Invitation](https://github.com/DMLSurGithub/Discord-Invitation) - A code snippet for adding Discord invitation to your websites | Technologies used: HTML / CSS
 - [SecureBits](https://github.com/DMLSurGithub/SecureBits) - My very first showcase website created for a school assignment | Technologies used: HTML / CSS
 
 ## Contact
